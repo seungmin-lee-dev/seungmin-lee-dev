@@ -1,105 +1,91 @@
-## 👋 Hi, I’m Seungmin Lee
+<div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?lines=Seungmin+Lee;PM+%26+Developer;Real-world+Projects&center=true&size=40&width=600&height=80&duration=4000&pause=1000&color=58A6FF&vCenter=true&font=Roboto&weight=900" />
+</div>
 
-실제 외주 및 실서비스 프로젝트를 중심으로  
-**기획 → 개발 → 운영까지 전 과정을 경험한 개발자**입니다.
+## 👋 Hi, I'm Seungmin Lee
+
+실제 **외주·실서비스 프로젝트**를 중심으로  
+기획 → 개발 → 운영까지 전 과정을 경험한 개발자입니다.
 
 PM 역할을 수행하며  
-요구사항 분석, 구조 설계, 일정 관리에 강점이 있으며  
-단순 기능 구현보다 **운영 효율과 확장성을 고려한 시스템 설계**를 지향합니다.
+**요구사항 정리 · 구조 설계 · 일정 관리**에 강점이 있고,  
+운영 효율과 확장성을 고려한 시스템 설계를 지향합니다.
 
 ---
 
-## 🧑‍💻 About Me
+## 📊 GitHub Activity
 
-- 외주 및 실서비스 프로젝트 다수 경험
-- PM 역할 수행 (요구사항 정리, 일정 관리, 팀 커뮤니케이션)
-- 단순 CRUD가 아닌 **운영·확장성 중심 시스템 설계**
-- Web / Backend / Infra 전반 경험 기반 문제 해결
-
----
-
-## 🚀 Featured Projects
-
-> 실서비스 및 외주 프로젝트는 보안상 **Private Repository**로 관리하고 있습니다.  
-> 각 프로젝트는 **README 기반 설명 자료**를 별도로 제공할 수 있습니다.
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%"/>
+</div>
 
 ---
 
-### 🔹 AISPORT – 전국 스포츠 대회 운영 플랫폼 (외주)
+## 🚀 Selected Projects
 
-- **개발기간**: 2025.06 ~ 2026.01  
-- **역할**: PM / 개발  
+> 실서비스 프로젝트는 보안상 Private Repository로 관리하고 있으며  
+> 아래 프로젝트들은 **포트폴리오 사이트에서 상세 설명**을 제공합니다.
 
-전국 규모 스포츠 대회를 대상으로  
-선수 등록부터 관리자·심판·스태프 운영,  
-대회 당일 현장 관리까지 **전 과정을 디지털화한 운영 플랫폼**입니다.
+- **AISPORT** – 전국 스포츠 대회 운영 플랫폼  
+  _PM & Developer · 실운영(약 1000명)_  
 
-QR 기반 입장 관리, 대진표 자동 생성, 전광판·TTS 기능을 구현했으며  
-실제 대회 현장에서 직접 운영 및 이슈 대응을 수행했습니다.  
-(약 1000명 규모 실운영)
 
----
+- **TokPlus** – TikTok 라이브 판매 자동화 플랫폼  
+  _외주 프로젝트 · 주문/배송 자동화_  
 
-### 🔹 Healtasis – AI 턱관절 헬스케어 웹 플랫폼 (외주)
 
-- **개발기간**: 2025.10 ~ 진행중  
-- **역할**: PM / 개발  
+- **Healtasis** – AI 턱관절 헬스케어 웹 플랫폼  
+  _PM & Developer · 서비스 마이그레이션_  
 
-Wix 기반으로 운영되던 AI 헬스케어 서비스를  
-React/Next.js 기반 **자체 웹 플랫폼으로 마이그레이션**한 프로젝트입니다.
 
-설문조사·동작분석 데이터 구조를 재정비하고,  
-기관 단위 운영이 가능한 관리자 페이지를 구축했습니다.
+- **MindonCRM** – B2B CRM 시스템 (기업 협업)  
+  _PM / Backend · 24,000+ 기업 데이터_  
+
 
 ---
 
-### 🔹 MindonCRM – B2B CRM 시스템 (기업 협업 프로젝트)
+## 🛠️ Tech Stack
 
-- **개발기간**: 2026.01 ~ 진행중  
-- **역할**: PM / Backend  
+### Frontend
+[![General badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)]()
+[![General badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]()
+[![General badge](https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&style=for-the-badge)]()
+[![General badge](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=for-the-badge)]()
 
-약 **24,000개 기업 고객 데이터를 다루는 B2B CRM 시스템**에  
-기능 확장 및 구조 개선 작업에 **참여 중인 프로젝트**입니다.
+### Backend
+[![General badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white)]()
+[![General badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![General badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 
-고객·영업·라이선스·조직·인시던트 관리 기능을 포함하며,  
-Spring Boot 기반 백엔드와 Stored Procedure 구조를 사용하고 있습니다.
-
-현재 **Next.js 기반 프론트엔드 전환과 신규 기능 추가 작업**을 진행 중입니다.
-
----
-
-### 🔹 TokPlus – TikTok 라이브 판매 자동화 플랫폼 (외주)
-
-- **개발기간**: 약 4주  
-- **역할**: 기획 / 개발  
-
-TikTok 라이브 방송에서 댓글 기반으로 수작업 처리되던  
-주문·배송 프로세스를 **웹 기반으로 자동화한 판매자 전용 플랫폼**입니다.
-
-판매자는 상품을 사전 등록하고,  
-구매자는 웹에서 주문 요청을 진행하며,  
-주문 순서 기반 처리와 **택배사 양식 자동 생성 기능**으로 운영 효율을 개선했습니다.
-
-판매자별 독립 사이트 구조로 확장성을 고려해 설계했습니다.
+### Database & Infrastructure
+[![General badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![General badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![General badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white)]()
 
 ---
 
-### 🔹 중개자 기반 중고 유통 플랫폼 (TokPlus 파생 프로젝트)
+## 📌 Key Strengths
 
-- **개발기간**: 2025.10 ~ 2025.11 (2주)  
-- **역할**: PM  
-
-기존 중고 거래 플랫폼의 지역·판매 속도 한계를 개선하기 위해  
-판매자와 중개자(유통업자)를 연결하는  
-**중개자 중심 유통 구조의 웹 플랫폼**을 설계했습니다.
-
-기존 TokPlus 구조를 재활용하여  
-**단기간 MVP를 완성**했습니다.
+- 🎯 **PM 경험**: 요구사항 분석, 구조 설계, 일정 관리, 팀 커뮤니케이션
+- 🏗️ **시스템 설계**: 운영 효율과 확장성을 고려한 아키텍처 설계
+- 🔧 **전방위 개발**: Web / Backend / Infra 전반 경험 기반 문제 해결
+- 🚀 **실서비스 운영**: 실제 운영 환경에서의 이슈 대응 및 최적화 경험
 
 ---
 
-## 📌 Additional Experience
+## 📬 Contact
 
-- 외주 프로젝트에서 클라이언트 커뮤니케이션 및 일정 조율
-- 실서비스 운영 중 발생한 이슈에 대한 즉각적인 대응 경험
-- 팀 프로젝트에서 PM 역할 수행 및 작업 범위·기여도 명확화
+<p align="center">
+  <a href="mailto:skdhfel8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-skdhfel8@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/seungmin-lee-dev">
+    <img src="https://img.shields.io/badge/GitHub-seungmin--lee--dev-181717?style=flat-square&logo=GitHub&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=seungmin-lee-dev&color=58A6FF&style=flat-square" alt="Profile views" />
+</p>
